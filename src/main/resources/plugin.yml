@@ -1,0 +1,7 @@
+name: WeaponSelect
+main: com.xeicx.weaponselect.WeaponSelectPlugin
+version: 1.0.0
+api-version: 1.21
+description: Opens a weapon selection GUI for new players and gives them weapon abilities with cooldowns.
+authors:
+  - xeicx
